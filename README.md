@@ -1,2 +1,2 @@
 Mi página personal.
-https://psvargas.github.io
+https://psvargas.github.io/Entrega1/mypage.html
